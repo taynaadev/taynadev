@@ -1,4 +1,4 @@
-# Olá, eu sou a Vitória Tayná 👋
+# Olá, eu sou a Vitória Tayná 
 
 Estudante de **Engenharia da Computação** (UniFBV, 7º semestre) e de **Análise e Desenvolvimento de Sistemas** (CESAR School, 2º semestre), em Recife - PE. Previsão de conclusão dos dois cursos: junho de 2028.
 
